@@ -43,7 +43,8 @@ cacheSolve <- function(x = matrix(), ...) {
                 message("getting cached data")
                 return(m) #return stored inverse
         }
-        data <- x$get() #if inverse is not stored, solve inverse
+        #if inverse is not stored, solve inverse
+        data <- x$get() 
         m <- solve(data, ...)
         x$setinverse(m) 
         m #return calculated inverse
