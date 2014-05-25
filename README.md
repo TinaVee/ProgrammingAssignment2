@@ -2,6 +2,7 @@
 ### Coursera: R Programming, Week 3, Assignment 2.
 
 Please look at `cachematrix.R` for my completed assignment.
+Completed: May 25, 2014
 
 ### Introduction
 
