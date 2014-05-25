@@ -1,7 +1,7 @@
 ###           TINA VEE'S ASSIGNMENT
 ### Coursera: R Programming, Week 3, Assignment 2.
 
-Please look at cachematrix.R for my completed assignment.
+Please look at `cachematrix.R` for my completed assignment.
 
 ### Introduction
 
